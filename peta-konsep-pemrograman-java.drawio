@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E1bqKEMmcaAzedTkHrK5-1" value="Dasar&lt;div&gt;Pemrograman&lt;/div&gt;&lt;div&gt;Java&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="70" width="120" height="80" as="geometry" />
+          <mxGeometry x="365" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E1bqKEMmcaAzedTkHrK5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E1bqKEMmcaAzedTkHrK5-2" target="E1bqKEMmcaAzedTkHrK5-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E1bqKEMmcaAzedTkHrK5-10" value="OPERATOR" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="420" width="120" height="70" as="geometry" />
+          <mxGeometry x="80" y="410" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E1bqKEMmcaAzedTkHrK5-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E1bqKEMmcaAzedTkHrK5-12" target="E1bqKEMmcaAzedTkHrK5-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,25 +61,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E1bqKEMmcaAzedTkHrK5-12" value="KONDISI&lt;div&gt;(PERCABANGAN)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="420" width="120" height="65" as="geometry" />
+          <mxGeometry x="640" y="410" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="E1bqKEMmcaAzedTkHrK5-14" value="LOGIKA&lt;div&gt;(&amp;amp;&amp;amp;, ||, !)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="550" width="120" height="70" as="geometry" />
+          <mxGeometry x="230" y="530" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E1bqKEMmcaAzedTkHrK5-16" value="RELASIONAL&lt;div&gt;(&amp;gt;, &amp;lt;, ==)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="550" width="120" height="70" as="geometry" />
+          <mxGeometry x="80" y="530" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E1bqKEMmcaAzedTkHrK5-18" value="ARITMATIKA&lt;div&gt;(+, -. *, /,)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="550" width="120" height="70" as="geometry" />
+          <mxGeometry x="-70" y="530" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E1bqKEMmcaAzedTkHrK5-20" value="&lt;i&gt;if-else, if-elseif-else&lt;/i&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="550" width="120" height="70" as="geometry" />
+          <mxGeometry x="640" y="530" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E1bqKEMmcaAzedTkHrK5-25" value="&lt;i&gt;if&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="550" width="120" height="70" as="geometry" />
+          <mxGeometry x="500" y="530" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="E1bqKEMmcaAzedTkHrK5-26" value="&lt;i&gt;switch case&lt;/i&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="550" width="120" height="70" as="geometry" />
+          <mxGeometry x="780" y="530" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
